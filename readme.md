@@ -1,5 +1,9 @@
+#Plugin para Pagos&Facturas
+https://pagosyfacturas.com
 
-## ELIMINAR ESTE REPOSITORIO - OBSOLETO
-## Atencion
 
-En el postproceso del cliente, este debe recibir los datos codificados en base64 desde pagosyfacturas, hay que corregir eso en este demo actual
+## Plugin Woocommerce
+````
+Plugin para pagos en lìnea utilizando la pasarela de pagos de pagos&facturas
+````
+
